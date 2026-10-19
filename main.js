@@ -14,4 +14,3 @@ function login(utilisateur) {
 
 console.log(login("zico45"));
 console.log("Soustraction : " + soustraire(5, 2));
-// commit a annuler
